@@ -22,10 +22,10 @@ public class Multiplication
         char iNo4 = '2';
         int CHAR = (iNo3 - '0') * (iNo4 - '0');
 
-        System.out.println("Addition of integer is : "+INTEGER);
-        System.out.println("Addition of long is : "+LONG);
-        System.out.println("Addition of float is : "+FLOAT);
-        System.out.println("Addition of double is : "+DOUBLE);
-        System.out.println("Addition of character is : "+CHAR);
+        System.out.println("Multiplication of integer is : "+INTEGER);
+        System.out.println("Multiplication of long is : "+LONG);
+        System.out.println("Multiplication of float is : "+FLOAT);
+        System.out.println("Multiplication of double is : "+DOUBLE);
+        System.out.println("Multiplication of character is : "+CHAR);
     }
 }
