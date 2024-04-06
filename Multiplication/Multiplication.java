@@ -3,7 +3,7 @@ public class Multiplication
     public static void main(String[] args)
     {
         int No1 = 10;
-        int No2 = 20;
+        int No2 = 30;
         int INTEGER = No1 * No2;
 
         long iLong1 = 32151;
