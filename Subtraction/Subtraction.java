@@ -22,10 +22,10 @@ public class Subtraction
         char iNo4 = '2';
         int CHAR = (iNo3 - '0') - (iNo4 - '0');
 
-        System.out.println("Addition of integer is : "+INTEGER);
-        System.out.println("Addition of long is : "+LONG);
-        System.out.println("Addition of float is : "+FLOAT);
-        System.out.println("Addition of double is : "+DOUBLE);
-        System.out.println("Addition of character is : "+CHAR);
+        System.out.println("Subtraction of integer is : "+INTEGER);
+        System.out.println("Subtraction of long is : "+LONG);
+        System.out.println("Subtraction of float is : "+FLOAT);
+        System.out.println("Subtraction of double is : "+DOUBLE);
+        System.out.println("Subtraction of character is : "+CHAR);
     }
 }
