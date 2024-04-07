@@ -3,12 +3,12 @@ public class _3
 {
     public static void main(String[] args)
     {
-        System.out.println("Please enter a First number:");
+        System.out.println("Please enter First number:");
 
         Scanner scanner = new Scanner(System.in);
         String no1 = scanner.nextLine();
 
-        System.out.println("Please enter a Second nmuber:");
+        System.out.println("Please enter Second nmuber:");
         String no2 = scanner.nextLine();
 
         int a = Integer.valueOf(no1);
