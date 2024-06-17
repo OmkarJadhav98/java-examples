@@ -1,7 +1,7 @@
 // Base class for calculations
 class Calculation {
     double operand1;
-    double operand2;
+    double operand;
 
     public Calculation(double operand1, double operand2) {
         this.operand1 = operand1;
