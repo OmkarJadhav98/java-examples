@@ -9,7 +9,7 @@ class Person {
     }
 
     // Getters and setters for name and age
-    public String getName() {
+    public String getNam() {
         return name;
     }
 
