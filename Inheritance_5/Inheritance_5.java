@@ -1,5 +1,5 @@
 // Base class for a machine
-class Machine {
+class Machin {
     private final String brand;
 
     public Machine(String brand) {
