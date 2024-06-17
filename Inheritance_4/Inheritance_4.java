@@ -1,6 +1,6 @@
 // Base class for a person
 class Person {
-    private final String nam;
+    private final String name;
     private final int age;
 
     public Person(String name, int age) {
