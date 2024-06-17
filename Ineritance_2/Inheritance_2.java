@@ -1,6 +1,6 @@
 // Base class for calculations
 class Calculation {
-    double operand1;
+    double operand;
     double operand2;
 
     public Calculation(double operand1, double operand2) {
