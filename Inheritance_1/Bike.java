@@ -1,6 +1,6 @@
 public class Bike extends Vehicle {
     private double engineDisplacement;
-    private String bikeType;
+    private String bikeTyp;
 
     public Bike() {
     }
