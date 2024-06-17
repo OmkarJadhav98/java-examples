@@ -1,4 +1,4 @@
-public class Car extends Vehicl {
+public class Car extends Vehicle {
     private int EngineDisplacement;
     private String fuelType;
 
