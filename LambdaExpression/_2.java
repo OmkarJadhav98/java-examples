@@ -3,7 +3,6 @@
 import java.util.ArrayList;
 public class _2 {
     public static void main(String[] args) {
-        // Creae a list and add some colors to the list
         ArrayList<String> list_Strings = new ArrayList<String>();
         list_Strings.add("Red");
         list_Strings.add("Green");
@@ -14,4 +13,3 @@ public class _2 {
         list_Strings.forEach(element -> System.out.println(element));
     }
 }
-
