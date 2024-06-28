@@ -1,11 +1,12 @@
 /*Write a Java program to iterate through all elements in a hash list.*/
 import java.util.*;
-import java.util.Iterator;
-public class _10 {
-    public static void main(String[] args) {
 
-        HashSet<String> h_set = new HashSet<String>();
-        // use add() method to add values in the hash set
+public class _10
+{
+    public static void main(String[] args)
+    {
+        HashSet<String> h_set = new HashSet< >();
+
         h_set.add("Red");
         h_set.add("Green");
         h_set.add("Black");
