@@ -4,7 +4,7 @@ import java.util.*;
 public class _12 {
     public static void main(String[] args) {
         // Create a empty hash set
-        HashSet<String> h_set =  HashSet<String>();
+        HashSet<String> h_set = new HashSet<String>();
         // use add() method to add values in the hash set
         h_set.add("Red");
         h_set.add("Green");
