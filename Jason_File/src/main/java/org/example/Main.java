@@ -22,13 +22,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        // Write data to a JSON file
-        JSONObject newData = new JSONObject();
-        newData.put("name", "John Doe");
-        newData.put("age", 30);
-        try (FileWriter writer = new FileWriter("new_data.json")) {
-            writer.write(newData.toString());
-        } catch (IOException e) {
+        
             e.printStackTrace();
         }
     }
