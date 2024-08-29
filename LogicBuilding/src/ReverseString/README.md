@@ -3,7 +3,7 @@
 
 - This method takes a string **(str)** as input.
 - It uses a StringBuilder object to reverse the string.
-- The reverse() method of StringBuilder reverses the string in place.
+- The **reverse()** method of StringBuilder reverses the string in place.
 - The reversed string is then converted back to a regular string using the toString() method and returned.
 
 ## main Method:
