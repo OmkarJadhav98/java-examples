@@ -1,4 +1,4 @@
-//Problem: Given a string, reverse it.
+package ReverseString;//Problem: Given a string, reverse it.
 
 
 //      Main logic:-
