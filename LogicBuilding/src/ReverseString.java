@@ -20,12 +20,12 @@ public class ReverseString{
         String original1 = "Hello World!";
         String original2 = "Java Programming";
 
-        System.out.println("Original: " + original1);
-        System.out.println("Reversed: " + sr.reverseString(original1));
+        System.out.println("Original1: " + original1);
+        System.out.println("Reversed1: " + sr.reverseString(original1));
         System.out.println("============================================");
 
-        System.out.println("Original: " + original2);
-        System.out.println("Reversed: " + sr.reverseString(original2));
+        System.out.println("Original2: " + original2);
+        System.out.println("Reversed2: " + sr.reverseString(original2));
         System.out.println("============================================");
     }
 }
