@@ -13,10 +13,9 @@ public class _13 {
         h_set.add("Pink");
         h_set.add("Yellow");
         System.out.println("Original Hash Set: " + h_set);
-        System.out.println("Checking the above array list is empty or not! "+h_set.isEmpty());
+        System.out.println("Checking the above array list is empty or not! " + h_set.isEmpty());
         System.out.println("Remove all the elements from a Hash Set: ");
         h_set.clear();
-        System.out.println("Hash Set after removing all the elements "+h_set);
+        System.out.println("Hash Set after removing all the elements " + h_set);
     }
 }
-
